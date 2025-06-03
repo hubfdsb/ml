@@ -1,4 +1,4 @@
 # ml
-Bai giang ML
+<h1>Bài giảng môn học máy</h1>
 <h2>Chương 1</h2>
-- What is <a href="https://www.youtube.com/watch?v=yNCK4kkuaXc" target="blank">Machine Learning</a>?
+- What is <a href="https://www.youtube.com/watch?v=yNCK4kkuaXc" target="_blank">Machine Learning</a>?
